@@ -1,0 +1,5 @@
+/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 02/Ugedage (switch case)/Ugedage 3/Ugedage/obj/Debug/net6.0/Ugedage.csproj.AssemblyReference.cache
+/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 02/Ugedage (switch case)/Ugedage 3/Ugedage/obj/Debug/net6.0/Ugedage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 02/Ugedage (switch case)/Ugedage 3/Ugedage/obj/Debug/net6.0/Ugedage.AssemblyInfoInputs.cache
+/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 02/Ugedage (switch case)/Ugedage 3/Ugedage/obj/Debug/net6.0/Ugedage.AssemblyInfo.cs
+/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 02/Ugedage (switch case)/Ugedage 3/Ugedage/obj/Debug/net6.0/Ugedage.csproj.CoreCompileInputs.cache
