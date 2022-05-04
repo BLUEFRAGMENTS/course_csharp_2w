@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B9AE88F2-F9DF-4FE1-B181-8FF2E4F4F168}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FamiliePizzaria PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FamiliePizzaria/Program.cs">
+    <Files>
+      <File FileName="FamiliePizzaria/Program.cs" Line="10" Column="29" />
+      <File FileName="FamiliePizzaria/PizzaBase.cs" Line="11" Column="6" />
+      <File FileName="FamiliePizzaria/Pepperoni.cs" Line="11" Column="30" />
+      <File FileName="FamiliePizzaria/Hawaii.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FamiliePizzaria" expanded="True">
+            <Node name="FamiliePizzaria" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
