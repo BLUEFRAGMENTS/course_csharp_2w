@@ -1,0 +1,15 @@
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\bin\Debug\net6.0\DetDårligeProgram.exe
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\bin\Debug\net6.0\DetDårligeProgram.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\refint\DetDårligeProgram.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.pdb
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\bin\Debug\net6.0\DetDårligeProgram.deps.json
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\bin\Debug\net6.0\DetDårligeProgram.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\bin\Debug\net6.0\DetDårligeProgram.pdb
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\DetDårligeProgram.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\Dag 05\DetDårligeProgram\DetDårligeProgram\obj\Debug\net6.0\ref\DetDårligeProgram.dll
