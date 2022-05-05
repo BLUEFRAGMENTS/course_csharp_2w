@@ -1,0 +1,15 @@
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\bin\Debug\net6.0\LoginMaskinen.exe
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\bin\Debug\net6.0\LoginMaskinen.deps.json
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\bin\Debug\net6.0\LoginMaskinen.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\bin\Debug\net6.0\LoginMaskinen.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\bin\Debug\net6.0\LoginMaskinen.pdb
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\refint\LoginMaskinen.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.pdb
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\LoginMaskinen.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\LoginMaskinen\LoginMaskinen\LoginMaskinen\obj\Debug\net6.0\ref\LoginMaskinen.dll
