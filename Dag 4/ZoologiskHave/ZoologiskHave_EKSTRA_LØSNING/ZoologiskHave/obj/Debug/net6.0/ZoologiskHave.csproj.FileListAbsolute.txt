@@ -1,0 +1,15 @@
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\bin\Debug\net6.0\ZoologiskHave.exe
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\bin\Debug\net6.0\ZoologiskHave.deps.json
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\bin\Debug\net6.0\ZoologiskHave.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\bin\Debug\net6.0\ZoologiskHave.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\bin\Debug\net6.0\ZoologiskHave.pdb
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\refint\ZoologiskHave.dll
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.pdb
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ZoologiskHave.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Dag 4\ZoologiskHave\ZoologiskHave_EKSTRA_LØSNING\ZoologiskHave\obj\Debug\net6.0\ref\ZoologiskHave.dll

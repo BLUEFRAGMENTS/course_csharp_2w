@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/Renover Familie Pizzaria/RenoverFamiliePizzaria_START/FamiliePizzaria/FamiliePizzaria.csproj": {}
+  },
+  "projects": {
+    "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/Renover Familie Pizzaria/RenoverFamiliePizzaria_START/FamiliePizzaria/FamiliePizzaria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/Renover Familie Pizzaria/RenoverFamiliePizzaria_START/FamiliePizzaria/FamiliePizzaria.csproj",
+        "projectName": "FamiliePizzaria",
+        "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/Renover Familie Pizzaria/RenoverFamiliePizzaria_START/FamiliePizzaria/FamiliePizzaria.csproj",
+        "packagesPath": "/Users/mathiaskirkegaardnielsen/.nuget/packages/",
+        "outputPath": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/Renover Familie Pizzaria/RenoverFamiliePizzaria_START/FamiliePizzaria/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mathiaskirkegaardnielsen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

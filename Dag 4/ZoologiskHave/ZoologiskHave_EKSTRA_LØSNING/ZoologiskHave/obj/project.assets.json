@@ -8,28 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/mathiaskirkegaardnielsen/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Mathias\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/ZoologiskHave/ZoologiskHave_EKSTRA_LØSNING/ZoologiskHave/ZoologiskHave.csproj",
+      "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Dag 4\\ZoologiskHave\\ZoologiskHave_EKSTRA_LØSNING\\ZoologiskHave\\ZoologiskHave.csproj",
       "projectName": "ZoologiskHave",
-      "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/ZoologiskHave/ZoologiskHave_EKSTRA_LØSNING/ZoologiskHave/ZoologiskHave.csproj",
-      "packagesPath": "/Users/mathiaskirkegaardnielsen/.nuget/packages/",
-      "outputPath": "/Users/mathiaskirkegaardnielsen/Desktop/Bluefragments/ProgrammeringsKursus 101/course_csharp_two-weeks/Kursus Opgaver/Day 03/ZoologiskHave/ZoologiskHave_EKSTRA_LØSNING/ZoologiskHave/obj/",
+      "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Dag 4\\ZoologiskHave\\ZoologiskHave_EKSTRA_LØSNING\\ZoologiskHave\\ZoologiskHave.csproj",
+      "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Dag 4\\ZoologiskHave\\ZoologiskHave_EKSTRA_LØSNING\\ZoologiskHave\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/mathiaskirkegaardnielsen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

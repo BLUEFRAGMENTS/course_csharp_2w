@@ -1,6 +1,6 @@
 ﻿
 // Trin 1
-PoseMedDyr enPoseMedDyr = new PoseMedDyr();
+var enPoseMedDyr = new PoseMedDyr();
 
 // Trin 2
 List<Dyr> alleDyr = enPoseMedDyr.HentAlleMineDyr();
