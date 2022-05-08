@@ -1,0 +1,30 @@
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\bin\Debug\net6.0\DenTravleKok.exe
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\bin\Debug\net6.0\DenTravleKok.deps.json
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\bin\Debug\net6.0\DenTravleKok.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\bin\Debug\net6.0\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\bin\Debug\net6.0\DenTravleKok.pdb
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\refint\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.pdb
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\DenTravleKok.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\Kursus\Opgaver\DenTravleKok\DenTravleKok\obj\Debug\net6.0\ref\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\bin\Debug\net6.0\DenTravleKok.exe
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\bin\Debug\net6.0\DenTravleKok.deps.json
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\bin\Debug\net6.0\DenTravleKok.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\bin\Debug\net6.0\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\bin\Debug\net6.0\DenTravleKok.pdb
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.csproj.AssemblyReference.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.AssemblyInfoInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.AssemblyInfo.cs
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\refint\DenTravleKok.dll
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.pdb
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\DenTravleKok.genruntimeconfig.cache
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\DAG 6\DenTravleKok - Copy\DenTravleKok\obj\Debug\net6.0\ref\DenTravleKok.dll
