@@ -1,0 +1,11 @@
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\KursusApi.exe
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\KursusApi.dll
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\KursusApi.deps.json
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\KursusApi.runtimeconfig.json
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\KursusApi.pdb
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mathias\Desktop\Kursus\course_csharp_two-weeks\KursusApi\KursusApi\KursusApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
