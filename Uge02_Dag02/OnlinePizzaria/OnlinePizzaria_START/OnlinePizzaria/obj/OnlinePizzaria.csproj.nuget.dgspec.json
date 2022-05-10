@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj": {}
+    "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
         "projectName": "OnlinePizzaria",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\obj\\",
+        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

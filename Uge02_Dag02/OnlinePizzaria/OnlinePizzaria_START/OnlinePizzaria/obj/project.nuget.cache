@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B16kPFj4J7XkcXveztQ6eja8KOEac+I5/mpRR/j7sWcGdt2gitlDmXu/O0t+5Wubl7HTUAu+nbWJXEszwair3A==",
+  "dgSpecHash": "H1hesif40A0PYNpjBv5vESdaK65orjKt4clpqu+1vCvVYM2Wk9/DR3EvgVTyHFzyFVAqRNU5oETkfSl8l11e/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
+  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag02\\OnlinePizzaria\\OnlinePizzaria_START\\OnlinePizzaria\\OnlinePizzaria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

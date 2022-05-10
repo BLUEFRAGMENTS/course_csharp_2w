@@ -76,13 +76,5 @@ namespace OnlinePizzaria
                 $" (tid tilbage: {pizzaOrdre.TimeLeftForOrderSek} sek)" +
                 $" id=[{pizzaOrdre.Id}]";
         }
-
-        // EKSTRA
-
-        public async Task<bool> SletEnOrdreAsync(string? guidIdSomString)
-        {
-            var response = await _httpClient.DeleteAsync($"{baseUrl}/pizzaria/order?id={guidIdSomString}");
-            return response.IsSuccessStatusCode;
-        }
     }
 }
