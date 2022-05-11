@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EcG+EU3mIiyqaXRgKEvNB7pveCvzBHH5z9cl8RQ4i5DzWZs2HeVAvaTDbBkoqnMDQ/rScZ0PShUdlCAKSrHbSQ==",
+  "dgSpecHash": "nUG0z1C3p3vmvfkYDlp6NYl41R/RKri4bFXSfr7FSicyLVpm+KB5wUb2JDqlHFOrUrvsK9MFB+DQVU9e45aZeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
+  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathias\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Users\\Mathias\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSGTg6TyY0DGhpiGveKGXiZHxIbUYUG7QlzF1Cv8Vx5d4lJneT3PslA22IuOZcNEfEJ8q9KoT9zg+ukShGZaiA==",
+  "dgSpecHash": "X2LVxABCfO7IyeKpqGGuYqrtkboFdOvRQ6DSY5p077UpV+dCCZ5gV0ad4eEq6Ec9r84tUoW9fyl6AdGKGk78VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathias\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Mathias\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

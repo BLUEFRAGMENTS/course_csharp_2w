@@ -21,6 +21,7 @@
         <!-- Input felt til at skrive highfiver navn -->
         <Entry
             x:Name="brugerNavnEntry"
+            BackgroundColor="Green"
             Unfocused="BrugerNavnEntryUnfocused"
             Grid.Row="0"/>
         
@@ -28,12 +29,14 @@
         <ImageButton
             x:Name="highfiveButton"
             Clicked="HighfiveButtonClicked"
+            BackgroundColor="Yellow"
             Grid.Row="1"
             Source="Assets/highfive_hand.png"/>
 
         <!-- Midlertidig Test knap -->
         <Button
             Grid.Row="1"
+            BackgroundColor="Red"
             Text="Fake Success!"
             VerticalOptions="End"
             HorizontalOptions="End"
@@ -42,6 +45,7 @@
         <!-- Tekst i bunden -->
         <Label
             x:Name="statusLabel"
+            BackgroundColor="Blue"
             Grid.Row="2" 
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"

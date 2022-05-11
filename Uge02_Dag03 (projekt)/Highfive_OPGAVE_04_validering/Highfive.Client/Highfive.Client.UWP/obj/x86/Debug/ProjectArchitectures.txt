@@ -1,1 +1,1 @@
-C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Highfive.Client.UWP.csproj;x86
+C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 (projekt)\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Highfive.Client.UWP.csproj;x86

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=B13F91FA-5972-4B26-A68E-BDCFB7BD7EB3</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>B40D7EB4D6CFB9955E733BDFD9580DB64A03F5D0E95B406FD961658081B0A4A5</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>83A34F4E-E5C9-49AC-B32D-DFBE631C0730_1.0.0.0_x86__8e3hd1ta3zeme</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>83A34F4E-E5C9-49AC-B32D-DFBE631C0730_8e3hd1ta3zeme!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-05-11T00:07:04.783</Modified>
+      <Modified>2022-05-11T07:11:19.325</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Highfive.Client.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Highfive.Client.UWP.exe">
       <PackagePath>entrypoint\Highfive.Client.UWP.exe</PackagePath>
-      <Modified>2022-05-11T00:07:03.129</Modified>
+      <Modified>2022-05-11T07:11:16.296</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mathias\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -66,9 +66,9 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2021-10-14T09:55:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client\bin\Debug\netstandard2.0\Highfive.Client.dll">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client\bin\Debug\netstandard2.0\Highfive.Client.dll">
       <PackagePath>Highfive.Client.dll</PackagePath>
-      <Modified>2022-05-11T00:10:10.352</Modified>
+      <Modified>2022-05-11T07:11:08.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mathias\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -82,168 +82,168 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-10-14T09:49:54.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.png">
       <PackagePath>Assets\highfive_hand.png</PackagePath>
       <Modified>2022-05-10T19:20:02.147</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.scale-100.png">
       <PackagePath>Assets\highfive_hand.scale-100.png</PackagePath>
       <Modified>2022-05-10T19:20:02.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\highfive_hand.scale-200.png">
       <PackagePath>Assets\highfive_hand.scale-200.png</PackagePath>
       <Modified>2022-05-10T19:20:02.144</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.388</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.394</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.407</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.414</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.434</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.447</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.476</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.485</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.496</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.523</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.528</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.761</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.773</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.779</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.786</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.799</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.806</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.823</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.841</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-05-10T16:48:54.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2022-05-10T16:48:54.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Highfive.Client.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Highfive.Client.UWP.xr.xml">
       <PackagePath>Highfive.Client.UWP.xr.xml</PackagePath>
       <Modified>2022-05-10T16:50:13.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-05-11T00:07:03.043</Modified>
+      <Modified>2022-05-11T07:11:16.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-05-11T00:07:03.044</Modified>
+      <Modified>2022-05-11T07:11:16.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -257,13 +257,13 @@
       <PackagePath>WinMetadata\Microsoft.UI.Xaml.winmd</PackagePath>
       <Modified>2020-07-10T00:07:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-05-10T19:33:12.626</Modified>
+      <Modified>2022-05-11T07:11:17.452</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_04\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Core\Highfive.Client.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Mathias\Desktop\Kursus\Kursisternes repop\course_csharp_2w\Uge02_Dag03 %28projekt%29\Highfive_OPGAVE_04_validering\Highfive.Client\Highfive.Client.UWP\bin\x86\Debug\Core\Highfive.Client.UWP.exe">
       <PackagePath>Highfive.Client.UWP.exe</PackagePath>
-      <Modified>2022-05-11T00:07:04.776</Modified>
+      <Modified>2022-05-11T07:11:19.318</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

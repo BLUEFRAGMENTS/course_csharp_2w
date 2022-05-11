@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj": {}
+    "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
         "projectName": "Highfive.Client.UWP",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\Highfive.Client.UWP.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.UWP\\obj\\",
+        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
-                "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj"
+              "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
+                "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
+    "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
         "projectName": "Highfive.Client",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
+        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
         "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client\\obj\\",
+        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

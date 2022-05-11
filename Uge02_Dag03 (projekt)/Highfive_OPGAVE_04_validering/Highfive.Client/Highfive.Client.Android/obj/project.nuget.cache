@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fgMA6FazdRMc2w8Xgl92Zr4R5jvlB/lkpbYd7PdPSKaJIhT916zB+EQa/hdSlFqyCKjMISjqI3AFWvc7bBOgEQ==",
+  "dgSpecHash": "kYX3qcKaY/5456rQjPvFrgfBGfXDUIrV4im3N9nO1a362NQVD3cLyZxpah3vYVuvS3yomxnAPcHDok6MvIc7ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_04\\Highfive.Client\\Highfive.Client.Android\\Highfive.Client.Android.csproj",
+  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Kursisternes repop\\course_csharp_2w\\Uge02_Dag03 (projekt)\\Highfive_OPGAVE_04_validering\\Highfive.Client\\Highfive.Client.Android\\Highfive.Client.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathias\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Mathias\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
