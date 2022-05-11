@@ -1,0 +1,1 @@
+C:\Users\Mathias\Desktop\Kursus\Bluefragments kursus repo\course_csharp_two-weeks\Kursus Opgaver\HighfiveApp\Highfive_OPGAVE_02_NO_ANIM\Highfive.Client\Highfive.Client.UWP\Highfive.Client.UWP.csproj;x86
