@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0586B6BA-D0B1-42B4-91F4-1B3C5DD8487E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Highfive.Client.Android PreferredExecutionTarget="Android.Pixel_C_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Highfive.Client/Highfive.Client/MainPage.xaml">
+    <Files>
+      <File FileName="Highfive.Client/Highfive.Client/MainPage.xaml" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Highfive" expanded="True">
+            <Node name="Highfive.Client" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Highfive.Client.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Highfive.Client.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.00BA67FC-DA09-4AF2-AD91-F2CB5996CEBA" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_C_API_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

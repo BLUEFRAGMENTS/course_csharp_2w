@@ -113,6 +113,10 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\highfive_hand.imageset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\highfive_hand.imageset\highfive_hand.png" />
+    <ImageAsset Include="Assets.xcassets\highfive_hand.imageset\highfive_hand-1.png" />
+    <ImageAsset Include="Assets.xcassets\highfive_hand.imageset\highfive_hand-2.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -129,8 +133,11 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Highfive.Client\Highfive.Client.csproj">
-      <Project>{6C163CDC-3AEA-4C25-94E8-470E3A07B878}</Project>
+      <Project>{D570E553-76A0-4321-A41B-146E7666B0CC}</Project>
       <Name>Highfive.Client</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets.xcassets\highfive_hand.imageset\" />
   </ItemGroup>
 </Project>

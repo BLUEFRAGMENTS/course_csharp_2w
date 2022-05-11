@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0H4IMU45+pyMB5HeLfH8lo24ZvKew5Ie4RBym988otNLwtm8fJjFfxsvbe8J4MbOoNp2rH8O7DFfIGNeHa6qA==",
+  "dgSpecHash": "gX11gvaAKCNVqpTAWomGzSEG1LL4oCsWRKKwFzPzMVW899+ABxasgLc/YaJ9NWRrIeuNM3kEdqSAyTZSeWn9aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
+  "projectFilePath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mathias\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Mathias\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Mathias\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Mathias\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\Mathias\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }

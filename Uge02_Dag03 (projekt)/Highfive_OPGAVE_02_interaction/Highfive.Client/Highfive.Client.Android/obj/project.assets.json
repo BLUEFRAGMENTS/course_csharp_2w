@@ -3172,39 +3172,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mathias\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/mathiaskirkegaardnielsen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.Android\\Highfive.Client.Android.csproj",
+      "projectUniqueName": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/Highfive.Client.Android.csproj",
       "projectName": "Highfive.Client.Android",
-      "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.Android\\Highfive.Client.Android.csproj",
-      "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.Android\\obj\\",
+      "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/Highfive.Client.Android.csproj",
+      "packagesPath": "/Users/mathiaskirkegaardnielsen/.nuget/packages/",
+      "outputPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mathiaskirkegaardnielsen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid12.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
-              "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj"
+            "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj": {
+              "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj"
             }
           }
         }

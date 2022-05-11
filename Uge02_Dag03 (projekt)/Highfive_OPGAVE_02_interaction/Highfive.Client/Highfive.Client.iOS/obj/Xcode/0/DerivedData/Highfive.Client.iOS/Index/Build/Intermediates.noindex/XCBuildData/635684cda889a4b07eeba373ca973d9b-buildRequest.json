@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "b3cda91c66a0d49f2c280be1b285756e700ac2de8788e1bda43e764f53dc664c"
+    }
+  ],
+  "containerPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/Highfive.Client.iOS.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Index/Build/Products",
+      "derivedDataPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/Xcode/0/DerivedData/Highfive.Client.iOS/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

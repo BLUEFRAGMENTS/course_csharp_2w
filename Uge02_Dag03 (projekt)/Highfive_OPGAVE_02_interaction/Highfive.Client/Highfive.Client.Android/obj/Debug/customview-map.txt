@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/enterfromleft.xml
+alpha;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/exittoleft.xml
+androidx.appcompat.widget.Toolbar;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/shellcontent.xml
+attr;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/attrs.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/53/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Debug/res/values/colors.xml
+com.google.android.material.appbar.AppBarLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/tabbar.xml
+declare-styleable;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/attrs.xml
+external-cache-path;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/53/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/53/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/bottomtablayout.xml
+item;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/styles.xml
+LinearLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/bottomtablayout.xml
+paths;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/53/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/attrs.xml
+resources;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/strings.xml
+resources;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/enterfromleft.xml
+set;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/enterfromright.xml
+set;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/exittoleft.xml
+set;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/exittoright.xml
+string;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/strings.xml
+style;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/enterfromleft.xml
+translate;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/enterfromright.xml
+translate;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/exittoleft.xml
+translate;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.Android/obj/Debug/lp/54/jl/res/layout/flyoutcontent.xml

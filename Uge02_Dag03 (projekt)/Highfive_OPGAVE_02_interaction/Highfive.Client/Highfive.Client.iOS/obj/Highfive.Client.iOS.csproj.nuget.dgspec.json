@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj": {}
+    "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/Highfive.Client.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj": {
+    "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/Highfive.Client.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj",
+        "projectUniqueName": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/Highfive.Client.iOS.csproj",
         "projectName": "Highfive.Client.iOS",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.iOS\\Highfive.Client.iOS.csproj",
-        "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client.iOS\\obj\\",
+        "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/Highfive.Client.iOS.csproj",
+        "packagesPath": "/Users/mathiaskirkegaardnielsen/.nuget/packages/",
+        "outputPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mathiaskirkegaardnielsen/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "xamarinios10"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
-                "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj"
+              "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj": {
+                "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj"
               }
             }
           }
@@ -65,28 +59,25 @@
         }
       }
     },
-    "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj": {
+    "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
+        "projectUniqueName": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj",
         "projectName": "Highfive.Client",
-        "projectPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\Highfive.Client.csproj",
-        "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mathias\\Desktop\\Kursus\\Bluefragments kursus repo\\course_csharp_two-weeks\\Kursus Opgaver\\HighfiveApp\\Highfive_OPGAVE_02_NO_ANIM\\Highfive.Client\\Highfive.Client\\obj\\",
+        "projectPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/Highfive.Client.csproj",
+        "packagesPath": "/Users/mathiaskirkegaardnielsen/.nuget/packages/",
+        "outputPath": "/Users/mathiaskirkegaardnielsen/Desktop/Kursus/Opgave repo/course_csharp_2w/Uge02_Dag03 (projekt)/Highfive_OPGAVE_02_interaction/Highfive.Client/Highfive.Client/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mathiaskirkegaardnielsen/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -130,7 +121,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

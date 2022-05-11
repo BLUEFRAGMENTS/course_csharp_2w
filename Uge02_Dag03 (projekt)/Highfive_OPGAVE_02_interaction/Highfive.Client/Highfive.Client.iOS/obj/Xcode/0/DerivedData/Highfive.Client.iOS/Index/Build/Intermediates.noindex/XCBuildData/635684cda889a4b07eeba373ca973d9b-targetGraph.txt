@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Highfive.Client.iOS in Highfive.Client.iOS, no dependencies
+Highfive.Client.iOS in Highfive.Client.iOS, no dependencies

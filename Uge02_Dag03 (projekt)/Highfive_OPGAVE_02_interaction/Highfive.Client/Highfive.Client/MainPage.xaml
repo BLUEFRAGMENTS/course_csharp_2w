@@ -26,7 +26,8 @@
         <ImageButton
             Clicked="HighfiveButtonClicked"
             Grid.Row="1"
-            Source="Assets/highfive_hand.png"/>
+            Source="{OnPlatform iOS=highfive_hand, UWP=Assets/highfive_hand.png}">
+        </ImageButton>
 
         <!-- Midlertidig Test knap -->
         <Button
