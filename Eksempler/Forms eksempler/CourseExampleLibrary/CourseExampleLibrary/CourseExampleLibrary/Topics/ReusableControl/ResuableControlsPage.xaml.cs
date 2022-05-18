@@ -12,6 +12,8 @@ namespace CourseExampleLibrary.Topics.ReusableControl
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ResuableControlsPage : ContentPage
     {
+        public int MyInt { get; set; }
+
         public ResuableControlsPage()
         {
             InitializeComponent();

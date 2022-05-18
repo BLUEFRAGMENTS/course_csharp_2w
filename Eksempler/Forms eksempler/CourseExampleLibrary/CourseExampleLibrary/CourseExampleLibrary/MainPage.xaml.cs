@@ -1,4 +1,5 @@
-﻿using CourseExampleLibrary.Topics.ReusableControl;
+﻿using CourseExampleLibrary.Topics.CollectionView;
+using CourseExampleLibrary.Topics.ReusableControl;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,7 +18,11 @@ namespace CourseExampleLibrary
 
             Title = "Start page";
 
+            Console.WriteLine("Started Console");
+            System.Diagnostics.Debug.WriteLine("Started debug");
+
             AddNewPageButton(new ResuableControlsPage(), "Reuse controls");
+            AddNewPageButton(new CollectionViewPage(), "CollectionView");
         }
 
         private void AddNewPageButton(Page page, string text)
