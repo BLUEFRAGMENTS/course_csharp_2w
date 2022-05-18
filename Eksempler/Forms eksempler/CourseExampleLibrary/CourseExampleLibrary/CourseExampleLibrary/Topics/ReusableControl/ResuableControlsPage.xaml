@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:reusablecontrol="clr-namespace:CourseExampleLibrary.Topics.ReusableControl"
+    x:Class="CourseExampleLibrary.Topics.ReusableControl.ResuableControlsPage">
+
+    <StackLayout
+        HorizontalOptions="Center"
+        WidthRequest="100">
+        <reusablecontrol:CardView
+            BackgroundColor="Yellow"
+            CardText="Card nr. 1"
+            CardSource="Assets/Square44x44Logo.png"/>
+        <reusablecontrol:CardView
+            BackgroundColor="Green"
+            CardText="Card nr. 2"
+            CardSource="Assets/Square44x44Logo.png" />
+        <reusablecontrol:CardView
+            BackgroundColor="Blue"
+            CardText="Card nr. 3"
+            CardSource="Assets/Square44x44Logo.png" />
+    </StackLayout>
+    
+</ContentPage>
