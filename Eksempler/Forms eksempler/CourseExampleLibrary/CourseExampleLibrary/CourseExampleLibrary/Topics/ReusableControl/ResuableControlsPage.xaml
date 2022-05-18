@@ -6,19 +6,19 @@
 
     <StackLayout
         HorizontalOptions="Center"
-        WidthRequest="100">
+        WidthRequest="240">
         <reusablecontrol:CardView
-            BackgroundColor="Yellow"
+            BackgroundColor="Aqua"
             CardText="Card nr. 1"
             CardSource="Assets/Square44x44Logo.png"/>
         <reusablecontrol:CardView
-            BackgroundColor="Green"
+            BackgroundColor="GreenYellow"
             CardText="Card nr. 2"
-            CardSource="Assets/Square44x44Logo.png" />
+            CardSource="Assets/Vector.png" />
         <reusablecontrol:CardView
-            BackgroundColor="Blue"
+            BackgroundColor="Orange"
             CardText="Card nr. 3"
-            CardSource="Assets/Square44x44Logo.png" />
+            CardSource="Assets/Vector-1.png" />
     </StackLayout>
     
 </ContentPage>

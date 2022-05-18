@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="CourseExampleLibrary.Topics.CollectionView.CollectionViewPage">
+    xmlns:collectionview="clr-namespace:CourseExampleLibrary.Topics.CollectionView"
+    x:Class="CourseExampleLibrary.Topics.CollectionView.CollectionViewPage">
 
     <Grid
         HorizontalOptions="Fill"
@@ -15,11 +16,9 @@
 
         <StackLayout
             Orientation="Horizontal">
-
             <Label
                 x:Name="infoLabel"
-                WidthRequest="200"/>
-
+                WidthRequest="200" />
             <Button
                 Text="Add item"
                 Clicked="AddItemButtonClicked" />
@@ -27,13 +26,12 @@
                 Text="Remove item"
                 Clicked="RemoveItemButtonClicked" />
             <Button
-                Text="Rearrange items"
+                Text="Change collections"
                 Clicked="ChangeCollectionButtonClickedView" />
-            
         </StackLayout>
 
         <CollectionView
-            x:Name="myCollectionView"
+            x:Name="myVerticalCollectionView"
             Grid.Row="1"
             HorizontalOptions="Fill"
             VerticalOptions="Fill"
@@ -45,7 +43,7 @@
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <Grid>
+                    <collectionview:RandomColorGrid>
                         <Grid.RowDefinitions>
                             <RowDefinition
                                 Height="*" />
@@ -59,7 +57,113 @@
                         <Label
                             Grid.Row="1"
                             Text="{Binding Alder}"/>
-                    </Grid>
+                        </collectionview:RandomColorGrid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <CollectionView
+            x:Name="myHorizontalCollectionView"
+            Grid.Row="1"
+            HeightRequest="100"
+            IsVisible="false"
+            HorizontalOptions="Fill"
+            VerticalOptions="Start"
+            BackgroundColor="Yellow">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout
+                    Orientation="Horizontal"
+                    ItemSpacing="8" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <collectionview:RandomColorGrid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition
+                                Height="*" />
+                            <RowDefinition
+                                Height="*" />
+                        </Grid.RowDefinitions>
+                        <Label
+                            Grid.Row="0"
+                            FontAttributes="Bold"
+                            Text="{Binding Name}" />
+                        <Label
+                            Grid.Row="1"
+                            Text="{Binding Alder}" />
+                    </collectionview:RandomColorGrid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <CollectionView
+            x:Name="myGridVerticalCollectionView"
+            Grid.Row="1"
+            IsVisible="false"
+            HorizontalOptions="Fill"
+            VerticalOptions="Fill"
+            BackgroundColor="Yellow">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout
+                    Orientation="Vertical"
+                    Span="3"
+                    VerticalItemSpacing="8"
+                    HorizontalItemSpacing="8" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <collectionview:RandomColorGrid
+                        HeightRequest="240">
+                        <Grid.RowDefinitions>
+                            <RowDefinition
+                                Height="*" />
+                            <RowDefinition
+                                Height="*" />
+                        </Grid.RowDefinitions>
+                        <Label
+                            Grid.Row="0"
+                            FontAttributes="Bold"
+                            Text="{Binding Name}" />
+                        <Label
+                            Grid.Row="1"
+                            Text="{Binding Alder}" />
+                    </collectionview:RandomColorGrid >
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <CollectionView
+            x:Name="myGridHorizontalCollectionView"
+            Grid.Row="1"
+            IsVisible="false"
+            HorizontalOptions="Start"
+            VerticalOptions="Start"
+            BackgroundColor="Yellow">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout
+                    Orientation="Horizontal"
+                    Span="3"
+                    VerticalItemSpacing="8"
+                    HorizontalItemSpacing="8" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <collectionview:RandomColorGrid
+                        WidthRequest="240">
+                        <Grid.RowDefinitions>
+                            <RowDefinition
+                                Height="*" />
+                            <RowDefinition
+                                Height="*" />
+                        </Grid.RowDefinitions>
+                        <Label
+                            Grid.Row="0"
+                            FontAttributes="Bold"
+                            Text="{Binding Name}" />
+                        <Label
+                            Grid.Row="1"
+                            Text="{Binding Alder}" />
+                    </collectionview:RandomColorGrid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>

@@ -9,10 +9,10 @@ namespace CourseExampleLibrary.Topics.CollectionView
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CollectionViewPage : ContentPage
     {
+        private CollectionViewLayouts _currentLayout = CollectionViewLayouts.VerticalList;
+
         // Observable collections updates the list when "Adding" and "Removing", where a normal list needs to be assigned to the collectionview if changing.
         private ObservableCollection<KursistItem> _kursister = new ObservableCollection<KursistItem>();
-
-        private CollectionViewLayouts _currentLayout = CollectionViewLayouts.VerticalList;
 
         public CollectionViewPage()
         {
@@ -27,7 +27,10 @@ namespace CourseExampleLibrary.Topics.CollectionView
             _kursister.Add(new KursistItem() { Name = "Henning", Alder = 24 });
             _kursister.Add(new KursistItem() { Name = "Lemming", Alder = 22 });
 
-            myCollectionView.ItemsSource = _kursister;
+            myVerticalCollectionView.ItemsSource = _kursister;
+            myHorizontalCollectionView.ItemsSource = _kursister;
+            myGridVerticalCollectionView.ItemsSource = _kursister;
+            myGridHorizontalCollectionView.ItemsSource = _kursister;
             UpdateInfo();
         }
 
@@ -38,46 +41,51 @@ namespace CourseExampleLibrary.Topics.CollectionView
                 var lastIndex = _kursister.Count - 1;
                 _kursister.RemoveAt(lastIndex);
             }
+
+            UpdateInfo();
         }
 
         private void AddItemButtonClicked(object sender, EventArgs e)
         {
             var alder = new Random().Next(0, 100);
+            var namePostfix = new Random().Next(0, 100_000);
             var nyKursist = new KursistItem()
             {
-                Name = $"Anonym ({Guid.NewGuid()})",
+                Name = $"Anonym ({namePostfix})",
                 Alder = alder,
             };
 
             _kursister.Add(nyKursist);
+            UpdateInfo();
         }
 
         private void ChangeCollectionButtonClickedView(object sender, EventArgs e)
         {
-            switch(_currentLayout)
+            myVerticalCollectionView.IsVisible = false;
+            myHorizontalCollectionView.IsVisible = false;
+            myGridVerticalCollectionView.IsVisible = false;
+            myGridHorizontalCollectionView.IsVisible = false;
+
+            switch (_currentLayout)
             {
                 case CollectionViewLayouts.VerticalList:
-                    // Make into horizontal
-                    myCollectionView.ItemsLayout = LinearItemsLayout.Horizontal;
                     _currentLayout = CollectionViewLayouts.HorizontalList;
+                    myHorizontalCollectionView.IsVisible = true;
                     break;
 
                 case CollectionViewLayouts.HorizontalList:
-                    // Make into gridVertical
-                    myCollectionView.ItemsLayout = new GridItemsLayout(3, ItemsLayoutOrientation.Vertical);
                     _currentLayout = CollectionViewLayouts.GridVertical;
+                    myGridVerticalCollectionView.IsVisible = true;
                     break;
 
                 case CollectionViewLayouts.GridVertical:
-                    // Make into gridHorizontal
-                    myCollectionView.ItemsLayout = new GridItemsLayout(3, ItemsLayoutOrientation.Horizontal);
                     _currentLayout = CollectionViewLayouts.GridHorizontal;
+                    myGridHorizontalCollectionView.IsVisible = true;
                     break;
 
                 case CollectionViewLayouts.GridHorizontal:
-                    // Make into vertical
-                    myCollectionView.ItemsLayout = LinearItemsLayout.Vertical;
                     _currentLayout = CollectionViewLayouts.VerticalList;
+                    myVerticalCollectionView.IsVisible = true;
                     break;
             }
 
@@ -87,7 +95,6 @@ namespace CourseExampleLibrary.Topics.CollectionView
         private void UpdateInfo()
         {
             infoLabel.Text = $"Elementer={_kursister.Count}, Layout={_currentLayout}";
-
         }
 
         private enum CollectionViewLayouts
