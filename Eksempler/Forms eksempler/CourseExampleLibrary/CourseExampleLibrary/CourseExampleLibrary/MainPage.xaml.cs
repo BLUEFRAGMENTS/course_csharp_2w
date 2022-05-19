@@ -1,6 +1,7 @@
 ﻿using CourseExampleLibrary.Topics.CollectionView;
 using CourseExampleLibrary.Topics.PagesTypes;
 using CourseExampleLibrary.Topics.ReusableControl;
+using CourseExampleLibrary.Topics.SwitchLanguage;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -25,6 +26,7 @@ namespace CourseExampleLibrary
             AddHeader("Go to controls:");
             AddNewPageButton(new ResuableControlsPage(), "Reuse controls");
             AddNewPageButton(new CollectionViewPage(), "CollectionView");
+            AddNewPageButton(new SwitchLanguagePage(), "Switch Language");
 
             AddHeader("Switch main page to:");
             AddChangeMainPageButton(new ExampleFlyoutPage(), "Flyout page [Not working for UWP out of the box]");
