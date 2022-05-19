@@ -17,11 +17,18 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage
 
             Title = "Switch language";
 
-            cultureLabel.Text = Thread.CurrentThread.CurrentCulture.Name;
-            text01Label.Text = AppResources.TestText01;
+            UpdateTexts();
 
+            currentCultureLabel.BackgroundColor = ColorFactory.GenerateRandomColor();
             cultureLabel.BackgroundColor = ColorFactory.GenerateRandomColor();
             text01Label.BackgroundColor = ColorFactory.GenerateRandomColor();
+        }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            UpdateCurretCultureLabel();
         }
 
         private void SwitchToEnglishButtonClicked(object sender, EventArgs e)
@@ -39,9 +46,29 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage
             await Navigation.PushAsync(new SwitchLanguagePage());
         }
 
+        private void UpdateTextsButtonClicked(object sender, EventArgs e)
+        {
+            UpdateTexts();
+        }
+
         private void SkiftKultur(string culture)
         {
-            ((App)App.Current).LanugageService.ChangeLanguage(culture);
+            if (App.Current is App app)
+            {
+                app.LanugageService.ChangeLanguage(culture);
+                UpdateCurretCultureLabel();
+            }
+        }
+
+        private void UpdateCurretCultureLabel()
+        {
+            currentCultureLabel.Text = "Current culture: " + Thread.CurrentThread.CurrentCulture.Name;
+        }
+
+        private void UpdateTexts()
+        {
+            cultureLabel.Text = "Lanugage used when reading: " + Thread.CurrentThread.CurrentCulture.Name;
+            text01Label.Text = "Tekst: " + AppResources.TestText01;
         }
     }
 }

@@ -17,6 +17,15 @@
                 Text="Switch to english"
                 Clicked="SwitchToEnglishButtonClicked"/>
 
+            <Button
+                Text="Update texts on page"
+                Clicked="UpdateTextsButtonClicked" />
+
+            <Label
+                x:Name="currentCultureLabel"
+                HeightRequest="100"
+                HorizontalOptions="Fill" />
+
             <Label
                 x:Name="cultureLabel"
                 HeightRequest="100"
