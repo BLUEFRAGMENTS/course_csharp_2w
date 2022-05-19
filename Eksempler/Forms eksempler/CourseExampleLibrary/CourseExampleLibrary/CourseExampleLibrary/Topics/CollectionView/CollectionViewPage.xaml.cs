@@ -61,7 +61,7 @@ namespace CourseExampleLibrary.Topics.CollectionView
 
         private void ChangeCollectionButtonClickedView(object sender, EventArgs e)
         {
-            myVerticalCollectionView.IsVisible = false;
+            VerticalListGrid.IsVisible = false;
             myHorizontalCollectionView.IsVisible = false;
             myGridVerticalCollectionView.IsVisible = false;
             myGridHorizontalCollectionView.IsVisible = false;
@@ -85,7 +85,7 @@ namespace CourseExampleLibrary.Topics.CollectionView
 
                 case CollectionViewLayouts.GridHorizontal:
                     _currentLayout = CollectionViewLayouts.VerticalList;
-                    myVerticalCollectionView.IsVisible = true;
+                    VerticalListGrid.IsVisible = true;
                     break;
             }
 
@@ -103,6 +103,36 @@ namespace CourseExampleLibrary.Topics.CollectionView
             HorizontalList,
             GridHorizontal,
             GridVertical,
+        }
+
+        private async void VerticalListItemSelected(object sender, SelectionChangedEventArgs e)
+        {
+            var singleSelection = e.CurrentSelection?.FirstOrDefault();
+            if (singleSelection == null)
+            {
+                return;
+            }
+
+            if (singleSelection is KursistItem kursistItem)
+            {
+                await DisplayAlert(
+                    "You selected an item",
+                    $"Item={kursistItem.Name}",
+                    "ok");
+            }
+            else
+            {
+                await DisplayAlert(
+                    "Unknown item",
+                    $"The item is not a {nameof(KursistItem)}",
+                    "ok");
+            }
+
+            // Reset selectedItem, so we can press the same item again.
+            if (sender is Xamarin.Forms.CollectionView currentCollectionView)
+            {
+                currentCollectionView.SelectedItem = null;
+            }
         }
     }
 }

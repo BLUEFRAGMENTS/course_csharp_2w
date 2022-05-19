@@ -30,43 +30,55 @@
                 Clicked="ChangeCollectionButtonClickedView" />
         </StackLayout>
 
-        <CollectionView
-            x:Name="myVerticalCollectionView"
+        <!--
+        NOTE!
+        Grrrr.. For Windows at least, changing the visibility of a collectionview will unsubscribe selectionChanged event.
+        A fix for this, is to change the visibility of a wrapping container (in this case a Grid).
+        -->
+        <Grid
             Grid.Row="1"
-            HorizontalOptions="Fill"
-            VerticalOptions="Fill"
-            BackgroundColor="Yellow">
-            <CollectionView.ItemsLayout>
-                <LinearItemsLayout
-                    Orientation="Vertical"
-                    ItemSpacing="8"/>
-            </CollectionView.ItemsLayout>
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <collectionview:RandomColorGrid>
-                        <Grid.RowDefinitions>
-                            <RowDefinition
-                                Height="*" />
-                            <RowDefinition
-                                Height="*" />
-                        </Grid.RowDefinitions>
-                        <Label
-                            Grid.Row="0"
-                            FontAttributes="Bold"
-                            Text="{Binding Name}" />
-                        <Label
-                            Grid.Row="1"
-                            Text="{Binding Alder}"/>
+            x:Name="VerticalListGrid">
+            <CollectionView
+                x:Name="myVerticalCollectionView"
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill"
+                SelectionMode="Single"
+                SelectionChanged="VerticalListItemSelected"
+                BackgroundColor="Yellow">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout
+                        Orientation="Vertical"
+                        ItemSpacing="8" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <collectionview:RandomColorGrid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition
+                                    Height="*" />
+                                <RowDefinition
+                                    Height="*" />
+                            </Grid.RowDefinitions>
+                            <Label
+                                Grid.Row="0"
+                                FontAttributes="Bold"
+                                Text="{Binding Name}" />
+                            <Label
+                                Grid.Row="1"
+                                Text="{Binding Alder}" />
                         </collectionview:RandomColorGrid>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
 
         <CollectionView
             x:Name="myHorizontalCollectionView"
             Grid.Row="1"
             HeightRequest="100"
             IsVisible="false"
+            SelectionMode="Single"
+            Unfocused="Test"
             HorizontalOptions="Fill"
             VerticalOptions="Start"
             BackgroundColor="Yellow">
@@ -102,6 +114,7 @@
             IsVisible="false"
             HorizontalOptions="Fill"
             VerticalOptions="Fill"
+            SelectionMode="Single"
             BackgroundColor="Yellow">
             <CollectionView.ItemsLayout>
                 <GridItemsLayout
@@ -136,6 +149,7 @@
             x:Name="myGridHorizontalCollectionView"
             Grid.Row="1"
             IsVisible="false"
+            SelectionMode="Single"
             HorizontalOptions="Start"
             VerticalOptions="Start"
             BackgroundColor="Yellow">
