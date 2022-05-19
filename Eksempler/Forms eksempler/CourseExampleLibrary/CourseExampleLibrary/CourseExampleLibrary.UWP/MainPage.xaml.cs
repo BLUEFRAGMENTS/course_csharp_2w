@@ -1,10 +1,12 @@
-﻿using System;
+﻿using CourseExampleLibrary.UWP.Services;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Globalization;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -21,7 +23,10 @@ namespace CourseExampleLibrary.UWP
         {
             this.InitializeComponent();
 
-            LoadApplication(new CourseExampleLibrary.App());
+            var app = new CourseExampleLibrary.App();
+            LoadApplication(app);
+
+            app.LanugageService = new LanguageService();
         }
     }
 }

@@ -41,9 +41,7 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage
 
         private void SkiftKultur(string culture)
         {
-            Thread.CurrentThread.CurrentCulture = new CultureInfo(culture);
-            Thread.CurrentThread.CurrentUICulture = new CultureInfo(culture);
-            ////ApplicationLanguages.PrimaryLanguageOverride = culture;
+            ((App)App.Current).LanugageService.ChangeLanguage(culture);
         }
     }
 }
