@@ -78,7 +78,6 @@
             HeightRequest="100"
             IsVisible="false"
             SelectionMode="Single"
-            Unfocused="Test"
             HorizontalOptions="Fill"
             VerticalOptions="Start"
             BackgroundColor="Yellow">
