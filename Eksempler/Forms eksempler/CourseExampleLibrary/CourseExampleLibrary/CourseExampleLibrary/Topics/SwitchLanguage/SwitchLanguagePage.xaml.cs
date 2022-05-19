@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CourseExampleLibrary.Utilities;
+using System;
+using System.Globalization;
+using System.Threading;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -18,7 +17,33 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage
 
             Title = "Switch language";
 
-            minLabel.Text = AppResources.TestText01;
+            cultureLabel.Text = Thread.CurrentThread.CurrentCulture.Name;
+            text01Label.Text = AppResources.TestText01;
+
+            cultureLabel.BackgroundColor = ColorFactory.GenerateRandomColor();
+            text01Label.BackgroundColor = ColorFactory.GenerateRandomColor();
+        }
+
+        private void SwitchToEnglishButtonClicked(object sender, EventArgs e)
+        {
+            SkiftKultur("en-US");
+        }
+
+        private void SwitchToDanishButtonClicked(object sender, EventArgs e)
+        {
+            SkiftKultur("da-DK");
+        }
+
+        private async void GoToSimilarPageButtonClicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SwitchLanguagePage());
+        }
+
+        private void SkiftKultur(string culture)
+        {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo(culture);
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo(culture);
+            ////ApplicationLanguages.PrimaryLanguageOverride = culture;
         }
     }
 }

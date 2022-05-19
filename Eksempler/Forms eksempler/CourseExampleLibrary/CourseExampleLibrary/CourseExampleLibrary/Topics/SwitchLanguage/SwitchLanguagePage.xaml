@@ -5,11 +5,27 @@
     <ContentPage.Content>
         <StackLayout>
 
+            <Button
+                Text="Go to similar page"
+                Clicked="GoToSimilarPageButtonClicked"/>
+
+            <Button
+                Text="Switch to danish"
+                Clicked="SwitchToDanishButtonClicked"/>
+
+            <Button
+                Text="Switch to english"
+                Clicked="SwitchToEnglishButtonClicked"/>
+
             <Label
-                x:Name="minLabel"
+                x:Name="cultureLabel"
                 HeightRequest="100"
-                HorizontalOptions="Fill"
-                BackgroundColor="Pink"/>
+                HorizontalOptions="Fill" />
+            
+            <Label
+                x:Name="text01Label"
+                HeightRequest="100"
+                HorizontalOptions="Fill"/>
             
             <!--<Label
                 HeightRequest="100"
