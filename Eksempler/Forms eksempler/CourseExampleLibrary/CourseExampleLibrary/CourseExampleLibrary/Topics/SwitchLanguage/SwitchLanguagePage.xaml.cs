@@ -18,8 +18,7 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage
 
             Title = "Switch language";
 
-            var test = AppResources.TestText01;
-            System.Diagnostics.Debug.WriteLine("TEST: " + test);
+            minLabel.Text = AppResources.TestText01;
         }
     }
 }

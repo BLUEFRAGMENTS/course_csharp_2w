@@ -61,20 +61,11 @@ namespace CourseExampleLibrary.Topics.SwitchLanguage {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to My name is Mathias.
+        ///   Looks up a localized string similar to Jeg hedder Mathias.
         /// </summary>
         public static string TestText01 {
             get {
                 return ResourceManager.GetString("TestText01", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to I am a developer.
-        /// </summary>
-        public static string TestText02 {
-            get {
-                return ResourceManager.GetString("TestText02", resourceCulture);
             }
         }
     }
