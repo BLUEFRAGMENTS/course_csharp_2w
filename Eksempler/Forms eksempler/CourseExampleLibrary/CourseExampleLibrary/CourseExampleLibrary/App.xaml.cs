@@ -14,7 +14,8 @@ namespace CourseExampleLibrary
             InitializeComponent();
 
             var startPage = new MainPage();
-            MainPage = new NavigationPage(startPage);
+            var navigationPage = new NavigationPage(startPage);
+            MainPage = navigationPage;
         }
 
         protected override void OnStart()

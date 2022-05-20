@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CourseExampleLibrary.Topics.MVVM.MvvmExamplePage">
+    <ContentPage.Content>
+        <StackLayout
+            x:Name="rootStackLayout"
+            Spacing="20">
+
+            <StackLayout>
+                <Label
+                    Text="Entry with two-way binding:" />
+                <Entry
+                    Text="{Binding EntryText, Mode=TwoWay}" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label
+                    Text="Label with binding:" />
+                <Label
+                    Text="{Binding LabelText}" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label
+                    Text="Buttons with command bindings:" />
+                <Button
+                    Text="Add 1"
+                    Command="{Binding ButtonPressedCommand}" />
+                <Button
+                    Text="Add 1 (if we have entry text)"
+                    Command="{Binding ButtonPressedIfConditionIsOKCommand}" />
+                <Label
+                    Text="Button pressed times:"/>
+                <Label
+                    Text="{Binding ButtonPressedCount}" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

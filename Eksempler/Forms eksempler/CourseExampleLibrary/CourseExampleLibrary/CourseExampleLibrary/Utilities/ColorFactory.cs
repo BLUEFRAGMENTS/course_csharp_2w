@@ -21,5 +21,13 @@ namespace CourseExampleLibrary.Utilities
             var lightColorValue = (doubleBetween0And1 * 0.5) + 0.5;
             return lightColorValue;
         }
+
+        public static void ApplyBackgroundColorsToStack(StackLayout stackLayot)
+        {
+            foreach (var child in stackLayot.Children)
+            {
+                child.BackgroundColor = GenerateRandomColor();
+            }
+        }
     }
 }
