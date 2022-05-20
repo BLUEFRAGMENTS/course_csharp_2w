@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:collectionview="clr-namespace:CourseExampleLibrary.Topics.CollectionView"
+    xmlns:controls="clr-namespace:CourseExampleLibrary.Controls"
     x:Class="CourseExampleLibrary.Topics.CollectionView.CollectionViewPage">
 
     <Grid
@@ -52,7 +52,7 @@
                 </CollectionView.ItemsLayout>
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
-                        <collectionview:RandomColorGrid>
+                        <controls:RandomColorGrid>
                             <Grid.RowDefinitions>
                                 <RowDefinition
                                     Height="*" />
@@ -66,7 +66,7 @@
                             <Label
                                 Grid.Row="1"
                                 Text="{Binding Alder}" />
-                        </collectionview:RandomColorGrid>
+                        </controls:RandomColorGrid>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
@@ -88,7 +88,7 @@
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <collectionview:RandomColorGrid>
+                    <controls:RandomColorGrid>
                         <Grid.RowDefinitions>
                             <RowDefinition
                                 Height="*" />
@@ -102,7 +102,7 @@
                         <Label
                             Grid.Row="1"
                             Text="{Binding Alder}" />
-                    </collectionview:RandomColorGrid>
+                    </controls:RandomColorGrid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
@@ -124,7 +124,7 @@
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <collectionview:RandomColorGrid
+                    <controls:RandomColorGrid
                         HeightRequest="240">
                         <Grid.RowDefinitions>
                             <RowDefinition
@@ -139,7 +139,7 @@
                         <Label
                             Grid.Row="1"
                             Text="{Binding Alder}" />
-                    </collectionview:RandomColorGrid >
+                    </controls:RandomColorGrid >
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>
@@ -161,7 +161,7 @@
             </CollectionView.ItemsLayout>
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <collectionview:RandomColorGrid
+                    <controls:RandomColorGrid
                         WidthRequest="240">
                         <Grid.RowDefinitions>
                             <RowDefinition
@@ -176,7 +176,7 @@
                         <Label
                             Grid.Row="1"
                             Text="{Binding Alder}" />
-                    </collectionview:RandomColorGrid>
+                    </controls:RandomColorGrid>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
         </CollectionView>

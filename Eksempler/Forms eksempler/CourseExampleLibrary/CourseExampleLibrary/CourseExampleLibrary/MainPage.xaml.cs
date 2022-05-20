@@ -1,5 +1,6 @@
 ﻿using CourseExampleLibrary.Topics.CollectionView;
 using CourseExampleLibrary.Topics.MVVM;
+using CourseExampleLibrary.Topics.MVVM.List_MVVM;
 using CourseExampleLibrary.Topics.PagesTypes;
 using CourseExampleLibrary.Topics.ReusableControl;
 using CourseExampleLibrary.Topics.SwitchLanguage;
@@ -39,8 +40,11 @@ namespace CourseExampleLibrary
             var switchLanguageButton = AddNewPageButton("Switch Language");
             switchLanguageButton.Command = new Command(() => Navigation.PushAsync(new SwitchLanguagePage()));
 
-            var mvvmPageButton = AddNewPageButton("MVVM page");
+            var mvvmPageButton = AddNewPageButton("Basic MVVM page");
             mvvmPageButton.Command = new Command(() => Navigation.PushAsync(new MvvmExamplePage()));
+
+            var listMvvmPageButton = AddNewPageButton("List MVVM page + Converters");
+            listMvvmPageButton.Command = new Command(() => Navigation.PushAsync(new ListMvvmPage()));
         }
 
         private void CreateChangePageButtons()

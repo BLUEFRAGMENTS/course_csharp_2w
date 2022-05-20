@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:controls="clr-namespace:CourseExampleLibrary.Controls"
+    xmlns:converters="clr-namespace:CourseExampleLibrary.Topics.MVVM.List_MVVM"
+    x:Class="CourseExampleLibrary.Topics.MVVM.List_MVVM.ListMvvmPage">
+    <ContentPage.Content>
+        <Grid>
+            <ListView
+                x:Name="myListView"
+                HorizontalOptions="Fill"
+                VerticalOptions="Fill">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <controls:RandomColorGrid
+                                HeightRequest="100"
+                                HorizontalOptions="Fill">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition
+                                        Width="*" />
+                                    <ColumnDefinition
+                                        Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                    Grid.Column="0"
+                                    Margin="16"
+                                    Text="{Binding Name}" />
+                                <Label
+                                    Grid.Column="1"
+                                    Margin="16"
+                                    BackgroundColor="{Binding IsExtinct, Converter={x:Static converters:AppConverters.BoolToColorConverter}}"
+                                    HorizontalTextAlignment="Center"
+                                    VerticalTextAlignment="Center"
+                                    Text="{Binding StatusText}" />
+                            </controls:RandomColorGrid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

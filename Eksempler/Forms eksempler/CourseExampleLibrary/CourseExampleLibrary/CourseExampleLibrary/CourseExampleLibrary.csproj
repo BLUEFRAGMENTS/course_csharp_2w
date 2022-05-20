@@ -27,7 +27,10 @@
     <EmbeddedResource Update="Topics\CollectionView\CollectionViewPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Topics\MVVM\MvvmExamplePage.xaml">
+    <EmbeddedResource Update="Topics\MVVM\Basic MVVM\MvvmExamplePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Topics\MVVM\List MVVM\ListMvvmPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Topics\PagesTypes\ExampleFlyoutPage.xaml">

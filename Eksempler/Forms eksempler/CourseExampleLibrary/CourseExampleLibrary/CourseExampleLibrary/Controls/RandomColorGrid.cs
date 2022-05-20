@@ -1,7 +1,7 @@
 ﻿using CourseExampleLibrary.Utilities;
 using Xamarin.Forms;
 
-namespace CourseExampleLibrary.Topics.CollectionView
+namespace CourseExampleLibrary.Controls
 {
     internal class RandomColorGrid : Grid
     {
