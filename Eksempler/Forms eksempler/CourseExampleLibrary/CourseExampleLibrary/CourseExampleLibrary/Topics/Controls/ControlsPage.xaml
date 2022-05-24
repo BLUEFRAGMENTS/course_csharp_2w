@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CourseExampleLibrary.Topics.Controls.ControlsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                Text="Entries"/>
+            <Entry
+                Placeholder="Tekst..." />
+            <Entry
+                Placeholder="Numeric..."
+                Text="{Binding MoneyAsText, Mode=TwoWay}"
+                Keyboard="Numeric"/>
+            <Label
+                Text="{Binding Money}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

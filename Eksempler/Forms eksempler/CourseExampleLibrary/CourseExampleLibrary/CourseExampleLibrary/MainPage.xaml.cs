@@ -1,4 +1,5 @@
 ﻿using CourseExampleLibrary.Topics.CollectionView;
+using CourseExampleLibrary.Topics.Controls;
 using CourseExampleLibrary.Topics.Maps;
 using CourseExampleLibrary.Topics.MVVM;
 using CourseExampleLibrary.Topics.MVVM.List_MVVM;
@@ -49,6 +50,9 @@ namespace CourseExampleLibrary
 
             var mapsPageButton = AddNewPageButton("Maps");
             mapsPageButton.Command = new Command(() => Navigation.PushAsync(new MapsPage()));
+
+            var controlsPageButton = AddNewPageButton("Controls");
+            controlsPageButton.Command = new Command(() => Navigation.PushAsync(new ControlsPage()));
         }
 
         private void CreateChangePageButtons()

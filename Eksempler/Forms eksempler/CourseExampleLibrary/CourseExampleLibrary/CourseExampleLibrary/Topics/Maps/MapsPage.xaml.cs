@@ -19,11 +19,18 @@ namespace CourseExampleLibrary.Topics.Maps
 
         private async void OpenMapClicked(object sender, EventArgs e)
         {
-            var locales = await TextToSpeech.GetLocalesAsync();
+            var location = new Location()
+            {
+                Latitude = 55.676098,
+                Longitude = 12.568337,
+            };
 
-            ////await Map.OpenAsync("Test");
+            var mapLaunchOptions = new MapLaunchOptions()
+            {
+                 NavigationMode = NavigationMode.Default,
+            };
 
-            await TextToSpeech.SpeakAsync("Hello!");
+            await Map.OpenAsync(location, mapLaunchOptions);
         }
     }
 }
