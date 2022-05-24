@@ -1,4 +1,5 @@
 ﻿using CourseExampleLibrary.Topics.CollectionView;
+using CourseExampleLibrary.Topics.Maps;
 using CourseExampleLibrary.Topics.MVVM;
 using CourseExampleLibrary.Topics.MVVM.List_MVVM;
 using CourseExampleLibrary.Topics.PagesTypes;
@@ -45,6 +46,9 @@ namespace CourseExampleLibrary
 
             var listMvvmPageButton = AddNewPageButton("List MVVM page + Converters");
             listMvvmPageButton.Command = new Command(() => Navigation.PushAsync(new ListMvvmPage()));
+
+            var mapsPageButton = AddNewPageButton("Maps");
+            mapsPageButton.Command = new Command(() => Navigation.PushAsync(new MapsPage()));
         }
 
         private void CreateChangePageButtons()
