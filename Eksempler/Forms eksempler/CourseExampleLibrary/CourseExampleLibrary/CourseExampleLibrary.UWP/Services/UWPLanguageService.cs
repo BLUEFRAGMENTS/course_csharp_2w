@@ -5,7 +5,7 @@ using Windows.Globalization;
 
 namespace CourseExampleLibrary.UWP.Services
 {
-    public class LanguageService : ILanguageService
+    public class UWPLanguageService : ILanguageService
     {
         public void ChangeLanguage(string language)
         {

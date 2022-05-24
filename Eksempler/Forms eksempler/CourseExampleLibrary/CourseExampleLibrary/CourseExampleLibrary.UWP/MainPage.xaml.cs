@@ -26,7 +26,7 @@ namespace CourseExampleLibrary.UWP
             var app = new CourseExampleLibrary.App();
             LoadApplication(app);
 
-            app.LanugageService = new LanguageService();
+            app.LanugageService = new UWPLanguageService();
         }
     }
 }
