@@ -36,6 +36,12 @@
     <EmbeddedResource Update="Topics\MVVM\Basic MVVM\MvvmExamplePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Topics\MVVM\BindableProperties MVVM\BindablePropertiesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Topics\MVVM\BindableProperties MVVM\ClocksView.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Topics\MVVM\List MVVM\ListMvvmPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>

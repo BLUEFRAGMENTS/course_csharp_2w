@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:bindableproperties_mvvm="clr-namespace:CourseExampleLibrary.Topics.MVVM.BindableProperties_MVVM"
+    x:Class="CourseExampleLibrary.Topics.MVVM.BindableProperties_MVVM.BindablePropertiesPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Bindable Custom Controls"/>
+
+            <bindableproperties_mvvm:ClocksView
+                TimeDifferenceInHours="{Binding DKDeltaHours}"/>
+
+            <bindableproperties_mvvm:ClocksView
+                TimeDifferenceInHours="{Binding USDeltaHours}" />
+
+            <Button
+                Text="Adapt time!" 
+                Clicked="OnAdaptTimeButtonClicked"/>
+
+            <Button
+                Text="Turn time forward one hour!"
+                Clicked="TurnEarthAnHourButtonClicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -2,6 +2,7 @@
 using CourseExampleLibrary.Topics.Controls;
 using CourseExampleLibrary.Topics.Maps;
 using CourseExampleLibrary.Topics.MVVM;
+using CourseExampleLibrary.Topics.MVVM.BindableProperties_MVVM;
 using CourseExampleLibrary.Topics.MVVM.List_MVVM;
 using CourseExampleLibrary.Topics.PagesTypes;
 using CourseExampleLibrary.Topics.ReusableControl;
@@ -42,17 +43,23 @@ namespace CourseExampleLibrary
             var switchLanguageButton = AddNewPageButton("Switch Language");
             switchLanguageButton.Command = new Command(() => Navigation.PushAsync(new SwitchLanguagePage()));
 
+            var mapsPageButton = AddNewPageButton("Maps");
+            mapsPageButton.Command = new Command(() => Navigation.PushAsync(new MapsPage()));
+
+            var controlsPageButton = AddNewPageButton("Controls");
+            controlsPageButton.Command = new Command(() => Navigation.PushAsync(new ControlsPage()));
+
+            // MVVM
+            AddHeader("MVVM (OUT OF SCOPE FOR COURSE)");
+
             var mvvmPageButton = AddNewPageButton("Basic MVVM page");
             mvvmPageButton.Command = new Command(() => Navigation.PushAsync(new MvvmExamplePage()));
 
             var listMvvmPageButton = AddNewPageButton("List MVVM page + Converters");
             listMvvmPageButton.Command = new Command(() => Navigation.PushAsync(new ListMvvmPage()));
 
-            var mapsPageButton = AddNewPageButton("Maps");
-            mapsPageButton.Command = new Command(() => Navigation.PushAsync(new MapsPage()));
-
-            var controlsPageButton = AddNewPageButton("Controls");
-            controlsPageButton.Command = new Command(() => Navigation.PushAsync(new ControlsPage()));
+            var bindableControlsButton = AddNewPageButton("Bindable Controls");
+            bindableControlsButton.Command = new Command(() => Navigation.PushAsync(new BindablePropertiesPage()));
         }
 
         private void CreateChangePageButtons()

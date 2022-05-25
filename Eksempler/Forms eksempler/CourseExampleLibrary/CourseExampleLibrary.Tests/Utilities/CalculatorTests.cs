@@ -21,7 +21,7 @@ namespace CourseExampleLibrary.Tests.Utilities
         }
 
         [TestMethod]
-        public void Add_2PlusMinus4_ReturnsMinus2()
+        public void Add_2AddMinus4_ReturnsMinus2()
         {
             // ARRANGE
             // sut = SubjectUnderTest
