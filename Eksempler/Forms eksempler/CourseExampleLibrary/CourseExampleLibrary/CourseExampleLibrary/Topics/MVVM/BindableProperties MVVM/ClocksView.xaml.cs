@@ -27,8 +27,28 @@ namespace CourseExampleLibrary.Topics.MVVM.BindableProperties_MVVM
             InitializeComponent();
 
             timer = new Timer(200);
-            timer.Elapsed += (s, e) => UpdateTimeLabel();
             timer.Start();
+        }
+
+        /// <summary>
+        /// Lifecycles are added from the pages, since there are no built-in.
+        /// </summary>
+        public void Load()
+        {
+            timer.Elapsed += OnTimeElapsed;
+        }
+
+        /// <summary>
+        /// Lifecycles are added from the pages, since there are no built-in.
+        /// </summary>
+        public void Unload()
+        {
+            timer.Elapsed -= OnTimeElapsed;
+        }
+
+        private void OnTimeElapsed(object sender, ElapsedEventArgs e)
+        {
+            UpdateTimeLabel();
         }
 
         public int TimeDifferenceInHours

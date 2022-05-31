@@ -22,6 +22,24 @@ namespace CourseExampleLibrary.Topics.MVVM.BindableProperties_MVVM
             BindingContext = this;
         }
 
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+
+            // Lifecycle events from page
+            dkClock.Load();
+            usClock.Load();
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+
+            // Lifecycle events from page
+            dkClock.Unload();
+            usClock.Unload();
+        }
+
         public int DKDeltaHours
         {
             get => _dkDeltaHours;
